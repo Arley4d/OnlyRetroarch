@@ -1,0 +1,12 @@
+{"type": "dir", "p": "Breakout", "n": "Breakout", "parent": ""}
+{"type": "dir", "p": "Bubble Bobble", "n": "Bubble Bobble", "parent": ""}
+{"type": "dir", "p": "Falldown", "n": "Falldown", "parent": ""}
+{"type": "dir", "p": "Tetris", "n": "Tetris", "parent": ""}
+{"type": "file", "p": "Blackjack.8xp", "n": "Blackjack", "ext": ".8xp", "parent": "", "urls": [{"u": "https://archive.org/download/blkjck.8xp/blkjck.8xp", "size": "3.23 KB", "size_bytes": 3307}], "size_bytes": 3307, "size": "3.23 KB"}
+{"type": "file", "p": "Breakout/BREAKOUT.8xp", "n": "BREAKOUT", "ext": ".8xp", "parent": "Breakout", "urls": [{"u": "https://archive.org/download/ti-83-plus/ti-83%20plus.zip/ti-83%20plus%2FGames%2FBreakout%2FBREAKOUT.8xp", "size": "2.96 KB", "size_bytes": 3031}], "size_bytes": 3031, "size": "2.96 KB"}
+{"type": "file", "p": "Breakout/ZBRSTD.8xp", "n": "ZBRSTD", "ext": ".8xp", "parent": "Breakout", "urls": [{"u": "https://archive.org/download/ti-83-plus/ti-83%20plus.zip/ti-83%20plus%2FGames%2FBreakout%2FZBRSTD.8xp", "size": "432.00 B", "size_bytes": 432}], "size_bytes": 432, "size": "432.00 B"}
+{"type": "file", "p": "Bubble Bobble/bubapp.8xk", "n": "bubapp", "ext": ".8xk", "parent": "Bubble Bobble", "urls": [{"u": "https://archive.org/download/ti-83-plus/ti-83%20plus.zip/ti-83%20plus%2FGames%2FBubble%20Bobble%2Fbubapp.8xk", "size": "64.61 KB", "size_bytes": 66160}], "size_bytes": 66160, "size": "64.61 KB"}
+{"type": "file", "p": "Falldown/FDOWN.8XP", "n": "FDOWN", "ext": ".8xp", "parent": "Falldown", "urls": [{"u": "https://archive.org/download/ti-83-plus/ti-83%20plus.zip/ti-83%20plus%2FGames%2FFalldown%2FFDOWN.8XP", "size": "762.00 B", "size_bytes": 762}], "size_bytes": 762, "size": "762.00 B"}
+{"type": "file", "p": "mario-run.zip", "n": "mario-run", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/mario-run/mario-run.zip", "size": "5.85 KB", "size_bytes": 5990}], "size_bytes": 5990, "size": "5.85 KB"}
+{"type": "file", "p": "snake-2.zip", "n": "snake-2", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/snake-2/snake-2.zip", "size": "1.82 KB", "size_bytes": 1863}], "size_bytes": 1863, "size": "1.82 KB"}
+{"type": "file", "p": "Tetris/ztris.8xp", "n": "ztris", "ext": ".8xp", "parent": "Tetris", "urls": [{"u": "https://archive.org/download/ti-83-plus/ti-83%20plus.zip/ti-83%20plus%2FGames%2FTetris%2Fztris.8xp", "size": "2.40 KB", "size_bytes": 2457}], "size_bytes": 2457, "size": "2.40 KB"}
